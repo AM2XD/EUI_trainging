@@ -39,7 +39,7 @@ Temporary variable builds up multi-digit numbers.
 Operator precedence handles the order of operations.
 Follows the pattern of operator, operand, operator, operand, etc.
 License
-This project is open source and available under the MIT License.
+This project is open source and available under the EUI License.
 
 Copy
 
